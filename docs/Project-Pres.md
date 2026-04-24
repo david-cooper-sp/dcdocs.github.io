@@ -3,6 +3,7 @@ marp: true
 theme: gaia
 
 ---
+<!-- this is a "This was worked on by Dave and Gentjan" -->
 
 ![bg left:40% 80%](https://www.sailpoint.com/images/SailPoint-logo-cropped.svg)
 
